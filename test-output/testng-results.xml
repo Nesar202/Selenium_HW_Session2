@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5825" started-at="2023-02-02T06:33:39Z" finished-at="2023-02-02T06:33:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5825" started-at="2023-02-02T06:33:39Z" finished-at="2023-02-02T06:33:45Z">
+      <class name="homew2.HW2">
+        <test-method status="PASS" signature="init()[pri:0, instance:homew2.HW2@1ae369b7]" name="init" is-config="true" duration-ms="2846" started-at="2023-02-02T00:33:39Z" finished-at="2023-02-02T00:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLocator()[pri:0, instance:homew2.HW2@1ae369b7]" name="testLocator" duration-ms="2865" started-at="2023-02-02T00:33:42Z" finished-at="2023-02-02T00:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLocator -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:homew2.HW2@1ae369b7]" name="tearDown" is-config="true" duration-ms="94" started-at="2023-02-02T00:33:45Z" finished-at="2023-02-02T00:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- homew2.HW2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
